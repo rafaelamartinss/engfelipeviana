@@ -1,7 +1,6 @@
 ### Hi there I'm Rafaela Leal
 
 - 🔭 I’m currently working with JavaScript frontend solutions.
-- 🌱 I’m currently in a bootcamp powered by Take Blip company (https://web.dio.me/track/becdeaec-8c9c-4a4d-941f-a6b1686c4b09).
 
 <div >
   <a href="https://github.com/rafaelamartinss">
